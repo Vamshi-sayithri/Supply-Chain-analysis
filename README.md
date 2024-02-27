@@ -1,3 +1,7 @@
+# Supply-Chain-analysis
+The supply Chain is the network of production and logistics involved in producing and delivering goods to customers. And Supply Chain Analysis means analyzing various components of a Supply Chain to understand how to improve the effectiveness of the Supply Chain to create more value for customers.
+
+
 ## Objective  
 The goal of this project is to analyse the Supply Chain of the company, to create more value to the company.
 
@@ -41,6 +45,4 @@ MS Power BI
 7) Road transportation results in a higher defect rate,and Air transportation has the lowest defect rate.
 8) This is the overall Supply Chain Analysis of components of a supply chain to understand how to improve the effectiveness of the supply chain to create more value for customers.which product is have more sales and by which mode of transportation is used more for transporting the products and we came to know that the which product has less defect rates by this analysis.
 
-# Supply-Chain-analysis
-The supply Chain is the network of production and logistics involved in producing and delivering goods to customers. And Supply Chain Analysis means analyzing various components of a Supply Chain to understand how to improve the effectiveness of the Supply Chain to create more value for customers.
 
